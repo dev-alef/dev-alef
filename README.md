@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alerson Ferreira, a Front-End Programmer, currently learning and creating projects with HTML and CSS, and beginning to learn JavaScript and React.
+I'm Alerson Ferreira, a Fullstack Programmer, currently learning and creating projects with HTML and CSS, and beginning to learn JavaScript and React.
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
