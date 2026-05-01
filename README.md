@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-I'm Alerson Ferreira, a Fullstack Programmer, currently learning and creating projects with HTML and CSS, and beginning to learn JavaScript and React.
+I'm Alerson, a Fullstack Programming student passionate about technology since forever.
+
+My goal is to become a Fullstack Developer specializing in Cybersecurity — combining the art of building systems with the skill of implementing them.
+
+I'm building my foundation with Python, HTML, CSS, JavaScript, and studying security through platforms like TryHackMe and PortSwigger Web Academy.
+
+I believe the best IT professionals are those who understand both how to create and how to protect. That's exactly the professional I'm becoming.
+
+🚀 Open to internship, freelance, and project collaboration opportunities.
+
+📍Volta Redonda, RJ
+
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
