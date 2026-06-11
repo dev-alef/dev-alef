@@ -1,4 +1,6 @@
-## Olá! Sou Alerson, apaixonado por tecnologia na sua forma mais completa.
+## Olá!
+
+Sou Alerson, apaixonado por tecnologia na sua forma mais completa.
 
  Estou me formando como Desenvolvedor Fullstack pelo Devclub, estudando Cibersegurança de forma autodidata — com TryHackMe, PortSwigger e Hack The Box — e acompanhando de perto o avanço da Inteligência Artificial para, no momento certo, integrá-la aos meus projetos.
 
