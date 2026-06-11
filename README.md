@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Sou Alerson, apaixonado por tecnologia na sua forma mais completa.
 
-I'm Alerson, a Fullstack Programming student passionate about technology since forever.
+ Estou me formando como Desenvolvedor Fullstack pelo Devclub, estudando Cibersegurança de forma autodidata — com TryHackMe, PortSwigger e Hack The Box — e acompanhando de perto o avanço da Inteligência Artificial para, no momento certo, integrá-la aos meus projetos.
 
-My goal is to become a Fullstack Developer specializing in Cybersecurity — combining the art of building systems with the skill of implementing them.
+Acredito que os profissionais que vão moldar o futuro da tecnologia são aqueles que não se limitam a uma única caixa. Estou construindo minha base com consistência, um passo de cada vez.
 
-I'm building my foundation with Python, HTML, CSS, JavaScript, and studying security through platforms like TryHackMe and PortSwigger Web Academy.
+🛠️ Atualmente aprendendo: HTML, CSS, JavaScript, Python
+🔐 Explorando: fundamentos de redes, Linux e segurança web
+🤖 No horizonte: integração de IA em sistemas reais
 
-I believe the best IT professionals are those who understand both how to create and how to protect. That's exactly the professional I'm becoming.
-
-🚀 Open to internship, freelance, and project collaboration opportunities.
-
-📍Volta Redonda, RJ
+🚀 Aberto a estágios, freelas e colaborações em projetos.
+📍 Volta Redonda, RJ
 
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
