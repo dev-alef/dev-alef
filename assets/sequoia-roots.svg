@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" width="220" height="290">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1f12"/>
+      <stop offset="55%" stop-color="#0d1f12"/>
+      <stop offset="55%" stop-color="#081208"/>
+      <stop offset="100%" stop-color="#040a05"/>
+    </linearGradient>
+    <linearGradient id="canopy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#166534"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="320" height="420" rx="14" fill="url(#bg)"/>
+
+  <!-- ground line -->
+  <line x1="10" y1="231" x2="310" y2="231" stroke="#22c55e" stroke-width="1" opacity="0.45"/>
+
+  <!-- canopy: layered sequoia crown -->
+  <g fill="url(#canopy)" opacity="0.95">
+    <path d="M160,40 L210,140 L110,140 Z"/>
+    <path d="M160,75 L225,175 L95,175 Z"/>
+    <path d="M160,112 L240,215 L80,215 Z"/>
+  </g>
+
+  <!-- trunk -->
+  <rect x="150" y="205" width="20" height="30" fill="#3f2a20"/>
+
+  <!-- roots reaching deep underground -->
+  <g stroke="#22c55e" stroke-width="2.4" fill="none" opacity="0.85" filter="url(#softGlow)">
+    <path d="M155,232 C140,255 120,260 95,290"/>
+    <path d="M160,233 C160,265 165,300 160,340"/>
+    <path d="M165,232 C182,258 205,262 235,292"/>
+    <path d="M150,234 C130,270 110,285 78,330"/>
+    <path d="M170,234 C192,272 212,288 245,335"/>
+  </g>
+
+  <!-- data nodes along the roots -->
+  <g fill="#4ade80">
+    <circle cx="95" cy="290" r="3"/>
+    <circle cx="160" cy="340" r="3"/>
+    <circle cx="235" cy="292" r="3"/>
+    <circle cx="78" cy="330" r="2.6"/>
+    <circle cx="245" cy="335" r="2.6"/>
+    <circle cx="120" cy="260" r="2"/>
+    <circle cx="205" cy="262" r="2"/>
+  </g>
+
+  <!-- deep root anchor glow -->
+  <circle cx="160" cy="340" r="6" fill="none" stroke="#4ade80" stroke-width="1" opacity="0.5"/>
+</svg>

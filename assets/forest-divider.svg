@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" preserveAspectRatio="none" width="100%" height="140">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1f12"/>
+      <stop offset="100%" stop-color="#143d24"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="140" fill="url(#sky)"/>
+
+  <!-- terminal horizon glow -->
+  <rect x="0" y="122" width="1200" height="1.6" fill="#22c55e" opacity="0.55" filter="url(#glow)"/>
+
+  <!-- data fireflies -->
+  <g fill="#4ade80">
+    <circle cx="62" cy="40" r="1.6" opacity="0.8"/>
+    <circle cx="184" cy="58" r="1.2" opacity="0.6"/>
+    <circle cx="305" cy="34" r="1.8" opacity="0.7"/>
+    <circle cx="431" cy="52" r="1.3" opacity="0.5"/>
+    <circle cx="560" cy="30" r="1.6" opacity="0.8"/>
+    <circle cx="690" cy="48" r="1.2" opacity="0.6"/>
+    <circle cx="812" cy="36" r="1.8" opacity="0.7"/>
+    <circle cx="945" cy="55" r="1.3" opacity="0.5"/>
+    <circle cx="1078" cy="32" r="1.6" opacity="0.8"/>
+    <circle cx="1150" cy="50" r="1.2" opacity="0.6"/>
+  </g>
+
+  <!-- back tree line (distant sequoias) -->
+  <g fill="#123a1e" opacity="0.6">
+    <path d="M25,125 L45,67 L65,125 Z"/>
+    <path d="M75,125 L95,80 L115,125 Z"/>
+    <path d="M125,125 L145,62 L165,125 Z"/>
+    <path d="M175,125 L195,78 L215,125 Z"/>
+    <path d="M225,125 L245,70 L265,125 Z"/>
+    <path d="M275,125 L295,58 L315,125 Z"/>
+    <path d="M325,125 L345,82 L365,125 Z"/>
+    <path d="M375,125 L395,66 L415,125 Z"/>
+    <path d="M425,125 L445,75 L465,125 Z"/>
+    <path d="M475,125 L495,60 L515,125 Z"/>
+    <path d="M525,125 L545,80 L565,125 Z"/>
+    <path d="M575,125 L595,68 L615,125 Z"/>
+    <path d="M625,125 L645,58 L665,125 Z"/>
+    <path d="M675,125 L695,77 L715,125 Z"/>
+    <path d="M725,125 L745,64 L765,125 Z"/>
+    <path d="M775,125 L795,82 L815,125 Z"/>
+    <path d="M825,125 L845,70 L865,125 Z"/>
+    <path d="M875,125 L895,60 L915,125 Z"/>
+    <path d="M925,125 L945,79 L965,125 Z"/>
+    <path d="M975,125 L995,66 L1015,125 Z"/>
+    <path d="M1025,125 L1045,58 L1065,125 Z"/>
+    <path d="M1075,125 L1095,78 L1115,125 Z"/>
+    <path d="M1125,125 L1145,68 L1165,125 Z"/>
+    <path d="M1175,125 L1195,80 L1200,125 Z"/>
+  </g>
+
+  <!-- front tree line (near sequoias) -->
+  <g fill="#051209">
+    <path d="M55,127 L92,38 L129,127 Z"/>
+    <path d="M60,127 L64,110 L68,127 Z" opacity="0"/>
+    <path d="M160,127 L200,20 L240,127 Z"/>
+    <path d="M270,127 L305,45 L340,127 Z"/>
+    <path d="M375,127 L415,25 L455,127 Z"/>
+    <path d="M480,127 L515,48 L550,127 Z"/>
+    <path d="M585,127 L625,18 L665,127 Z"/>
+    <path d="M690,127 L725,42 L760,127 Z"/>
+    <path d="M795,127 L835,22 L875,127 Z"/>
+    <path d="M900,127 L935,46 L970,127 Z"/>
+    <path d="M1005,127 L1045,20 L1085,127 Z"/>
+    <path d="M1110,127 L1145,44 L1180,127 Z"/>
+  </g>
+
+  <!-- trunks -->
+  <g fill="#03110a">
+    <rect x="88" y="120" width="8" height="10"/>
+    <rect x="196" y="120" width="8" height="10"/>
+    <rect x="301" y="120" width="8" height="10"/>
+    <rect x="411" y="120" width="8" height="10"/>
+    <rect x="511" y="120" width="8" height="10"/>
+    <rect x="621" y="120" width="8" height="10"/>
+    <rect x="721" y="120" width="8" height="10"/>
+    <rect x="831" y="120" width="8" height="10"/>
+    <rect x="931" y="120" width="8" height="10"/>
+    <rect x="1041" y="120" width="8" height="10"/>
+    <rect x="1141" y="120" width="8" height="10"/>
+  </g>
+</svg>
