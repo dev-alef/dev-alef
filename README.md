@@ -109,7 +109,7 @@
         geração de PDFs, recepcionista com <strong>IA no WhatsApp</strong> e
         conformidade com a <strong>LGPD</strong>.
       </p>
-      <a href="[SEU_LINK_REPO_CLINICA]">
+      <a href="[link]">
         <img src="https://img.shields.io/badge/repo-0D1F12?style=for-the-badge&logo=github&logoColor=4ADE80" alt="repo clínica"/>
       </a>
     </td>
@@ -215,7 +215,7 @@
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F12?style=for-the-badge&logo=linkedin&logoColor=4ADE80)](https://www.linkedin.com/in/alerson-ferreira/)
-[![Email](https://img.shields.io/badge/Email-0D1F12?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:[SEU_EMAIL])
+[![Email](https://img.shields.io/badge/Email-0D1F12?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:[ola.alef1@gmail.com])
 [![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([https://portfolio-9igs.vercel.app/])
 
 </div>
