@@ -216,7 +216,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F12?style=for-the-badge&logo=linkedin&logoColor=4ADE80)](https://www.linkedin.com/in/alerson-ferreira/)
 [![Email](https://img.shields.io/badge/Email-0D1F12?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:[SEU_EMAIL])
-[![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([SEU_LINK_PORTFOLIO])
+[![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([https://portfolio-9igs.vercel.app/])
 
 </div>
 
