@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION — edite as frases em "lines=" -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=4ADE80&background=0D1F12&center=true&vCenter=true&width=650&height=50&lines=Construindo+com+prop%C3%B3sito;C%C3%B3digo+seguro%2C+ra%C3%ADzes+profundas;Hacker+do+bem+em+forma%C3%A7%C3%A3o;Soli+Deo+Gloria" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=4ADE80&background=0D1F12&center=true&vCenter=true&width=650&height=50&lines=Construindo+com+prop%C3%B3sito;C%C3%B3digo+seguro%2C+ra%C3%ADzes+profundas;Soli+Deo+Gloria" alt="typing animation" />
 </a>
 
 </div>
