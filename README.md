@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F12,50:14532d,100:22c55e&height=220&section=header&text=Alerson%20Ferreira&fontSize=44&fontColor=E8FFF0&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Security%20Enthusiast%20%C2%B7%20Genesis%20Code&descAlignY=54&descSize=18&descColor=A7F3C8&v=2" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F12,50:14532d,100:22c55e&height=220&section=header&text=Alerson%20Ferreira&fontSize=44&fontColor=E8FFF0&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20Security%20Enthusiast%20%C2%B7%20Genesis%20Code&descAlignY=54&descSize=18&descColor=A7F3C8" width="100%" alt="banner"/>
 
 <!-- TYPING ANIMATION — edite as frases em "lines=" -->
 <a href="#">
