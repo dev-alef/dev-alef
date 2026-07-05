@@ -44,8 +44,6 @@
 
 - 🌱 Formação: Fullstack (Node.js · React · TypeScript · PostgreSQL · Docker)
 - 🛡️ Trilha paralela: Cibersegurança e Ethical Hacking, autodidata
-- ✍️ Autor publicado — voz que clama por verdade
-- 🎻 Músico — violoncelo, violão e flauta
 - 📍 Volta Redonda, RJ, Brasil
 - 🚀 Aberto a estágios, freelas e colaborações
 
@@ -81,9 +79,6 @@
 
 </div>
 
-<!-- FAIXA DE FOTO: estrada entre as sequoias -->
-<img src="./assets/strip-road.jpg" width="100%" alt="estrada serpenteando entre sequoias"/>
-
 <!-- ============================================================ -->
 <!-- PROJETOS EM DESTAQUE — edite descrições e links aqui -->
 <!-- ============================================================ -->
@@ -102,7 +97,7 @@
         autenticação <strong>JWT</strong>, cache com <strong>Redis</strong> e pipeline de
         <strong> CI/CD</strong>. Pensado para transformar dado financeiro em decisão.
       </p>
-      <a href="[SEU_LINK_REPO_FINTRACK]">
+      <a href="https://github.com/dev-alef/fintrack">
         <img src="https://img.shields.io/badge/repo-0D1F12?style=for-the-badge&logo=github&logoColor=4ADE80" alt="repo FinTrack"/>
       </a>
     </td>
@@ -191,10 +186,10 @@
 
 </div>
 
-- ✍️ **Autor** de livros sobre amor, ego e fé — *"Uma voz que clama por verdade"*
-- 🎻 **Músico**: violoncelo, violão e flauta
-- 🌲 **Sonho**: caminhar entre as sequoias da Califórnia
-- 🕊️ **Sonho**: pisar a Terra Santa
+- ✍️ **Autor publicado** de livros sobre amor, ego e fé — *"Uma voz que clama por verdade"*
+- 🎻 **Músico**: Eterno aprendiz de violoncelo, violão e flauta
+- 🌲 **Meta**: caminhar entre as sequoias da Califórnia
+- 🕊️ **Meta**: pisar a Terra Santa
 
 <!-- FAIXA DE FOTO: luz do sol atravessando a floresta (antes do versículo) -->
 <img src="./assets/strip-sunrays.jpg" width="100%" alt="luz do sol atravessando a floresta de sequoias"/>
@@ -219,7 +214,7 @@
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F12?style=for-the-badge&logo=linkedin&logoColor=4ADE80)](https://www.linkedin.com/in/alerson-ferreira-2367233b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F12?style=for-the-badge&logo=linkedin&logoColor=4ADE80)](https://www.linkedin.com/in/alerson-ferreira/)
 [![Email](https://img.shields.io/badge/Email-0D1F12?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:[SEU_EMAIL])
 [![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([SEU_LINK_PORTFOLIO])
 
@@ -239,6 +234,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-alef/dev-alef/output/github-contribution-grid-snake.svg" />
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/dev-alef/dev-alef/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+</div>
+
+<!-- ============================================================ -->
+<!-- OLIVEIRA — sinal da volta de Jesus -->
+<!-- ============================================================ -->
+<div align="center">
+
+<img src="./assets/oliveira.webp" width="400" alt="oliveira milenar de tronco retorcido"/>
+
+> *"Naquele dia, estarão os seus pés sobre o monte das Oliveiras..."*
+> — **Zacarias 14:4**
+
+*Ele voltará.*
 
 </div>
 
