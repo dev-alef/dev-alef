@@ -134,8 +134,19 @@
 
 ### 📊 Estatísticas
 
-<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=dev-alef&show_icons=true&hide_border=true&bg_color=0D1F12&title_color=4ADE80&icon_color=22C55E&text_color=C9F7D6&ring_color=22C55E" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=dev-alef&layout=compact&hide_border=true&bg_color=0D1F12&title_color=4ADE80&text_color=C9F7D6" alt="top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-alef&theme=github_dark" alt="github stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-alef&theme=github_dark" alt="top languages"/>
+
+<!--
+  VERSÃO COM PALETA VERDE-FLORESTA CUSTOMIZADA (github-readme-stats):
+  o servidor público oficial está pausado. Se um dia você hospedar sua
+  própria instância na Vercel (gratuito), troque SEU-DOMINIO abaixo pelo
+  domínio do seu deploy, apague a primeira e a última linha deste bloco
+  e remova as duas imagens acima.
+
+<img height="165" src="https://SEU-DOMINIO.vercel.app/api?username=dev-alef&show_icons=true&hide_border=true&bg_color=0D1F12&title_color=4ADE80&icon_color=22C55E&text_color=C9F7D6&ring_color=22C55E" alt="github stats"/>
+<img height="165" src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=dev-alef&layout=compact&hide_border=true&bg_color=0D1F12&title_color=4ADE80&text_color=C9F7D6" alt="top languages"/>
+-->
 
 <img src="https://streak-stats.demolab.com?user=dev-alef&hide_border=true&background=0D1F12&border=0D1F12&stroke=22C55E&ring=22C55E&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9F7D6&currStreakNum=E8FFF0&sideNums=E8FFF0&dates=7CA98C" alt="streak stats"/>
 
