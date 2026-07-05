@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F12,50:14532d,100:22c55e&height=220&section=header&text=Alerson%20Ferreira&fontSize=44&fontColor=E8FFF0&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Security%20Enthusiast%20%C2%B7%20Genesis%20Code&descAlignY=54&descSize=18&descColor=A7F3C8" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F12,50:14532d,100:22c55e&height=220&section=header&text=Alerson%20Ferreira&fontSize=44&fontColor=E8FFF0&fontAlignY=36&animation=fadeIn&desc=Fullstack%20Developer%20%26%20Security%20Enthusiast%20%C2%B7%20Genesis%20Code&descAlignY=54&descSize=18&descColor=A7F3C8&v=2" width="100%" alt="banner"/>
 
 <!-- TYPING ANIMATION — edite as frases em "lines=" -->
 <a href="#">
@@ -28,7 +28,7 @@
         <p>
           Sou <strong>Alerson</strong>, desenvolvedor fullstack e fundador da <strong>Genesis Code</strong> —
           uma iniciativa de desenvolvimento e soluções com IA. Estou em formação como
-          <strong> Secure Fullstack Developer</strong>: construo com Node.js, React, TypeScript e PostgreSQL,
+          <strong> Secure Fullstack Developer</strong>: construo com HTML, CSS, Javascript, Node.js, React, TypeScript e PostgreSQL,
           e trago para dentro do código a mesma disciplina que aplico ao estudar segurança ofensiva e defensiva.
         </p>
         <p>
@@ -134,8 +134,8 @@
 
 ### 📊 Estatísticas
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-alef&show_icons=true&hide_border=true&bg_color=0D1F12&title_color=4ADE80&icon_color=22C55E&text_color=C9F7D6&ring_color=22C55E" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alef&layout=compact&hide_border=true&bg_color=0D1F12&title_color=4ADE80&text_color=C9F7D6" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=dev-alef&show_icons=true&hide_border=true&bg_color=0D1F12&title_color=4ADE80&icon_color=22C55E&text_color=C9F7D6&ring_color=22C55E" alt="github stats"/>
+<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=dev-alef&layout=compact&hide_border=true&bg_color=0D1F12&title_color=4ADE80&text_color=C9F7D6" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=dev-alef&hide_border=true&background=0D1F12&border=0D1F12&stroke=22C55E&ring=22C55E&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9F7D6&currStreakNum=E8FFF0&sideNums=E8FFF0&dates=7CA98C" alt="streak stats"/>
 
@@ -154,7 +154,13 @@
 
 *Cada muro de segurança começa com um tijolo — e cada tijolo, com disciplina diária.*
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/[SEU_USUARIO_THM].png)](https://tryhackme.com/p/[SEU_USUARIO_THM])
+<!--
+  BADGE DO TRYHACKME: quando criar sua conta, troque SEU_USUARIO_THM
+  pelo seu nome de usuário nas DUAS ocorrências abaixo e apague a
+  primeira e a última linha deste bloco para o badge aparecer.
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SEU_USUARIO_THM.png)](https://tryhackme.com/p/SEU_USUARIO_THM)
+-->
 
 </div>
 
@@ -213,4 +219,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:0D1F12&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:0D1F12&height=100&section=footer&v=2" width="100%" alt="footer"/>
