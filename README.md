@@ -49,7 +49,8 @@
 - 📍 Volta Redonda, RJ, Brasil
 - 🚀 Aberto a estágios, freelas e colaborações
 
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
+<!-- FAIXA DE FOTO: copa da floresta (recorte de foto do Unsplash) -->
+<img src="./assets/strip-canopy.jpg" width="100%" alt="copa de floresta de sequoias vista de baixo"/>
 
 <!-- ============================================================ -->
 <!-- STACK E FERRAMENTAS — adicione/remova badges aqui -->
@@ -79,8 +80,6 @@
 ![OWASP](https://img.shields.io/badge/OWASP-0D1F12?style=for-the-badge&logo=owasp&logoColor=4ADE80)
 
 </div>
-
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
 
 <!-- ============================================================ -->
 <!-- PROJETOS EM DESTAQUE — edite descrições e links aqui -->
@@ -125,8 +124,6 @@
   </tr>
 </table>
 
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
-
 <!-- ============================================================ -->
 <!-- ESTATÍSTICAS — troque "dev-alef" pelo seu usuário se mudar -->
 <!-- ============================================================ -->
@@ -152,7 +149,8 @@
 
 </div>
 
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
+<!-- FAIXA DE FOTO: troncos de sequoia marcados pelo fogo (P&B) -->
+<img src="./assets/strip-fire-scars.jpg" width="100%" alt="troncos de sequoia marcados pelo fogo"/>
 
 <!-- ============================================================ -->
 <!-- TRILHA DE CIBERSEGURANÇA — edite seu usuário do TryHackMe -->
@@ -163,7 +161,7 @@
 
 **OverTheWire** → **TryHackMe** → **PortSwigger Academy** → **Hack The Box** → **Bug Bounty**
 
-*Cada muro de segurança começa com um tijolo — e cada tijolo, com disciplina diária.*
+*A sequoia atravessa o incêndio por causa da espessura da casca.<br/>Segurança é isso: construir sistemas de casca grossa — e cada camada começa com disciplina diária.*
 
 <!--
   BADGE DO TRYHACKME: quando criar sua conta, troque SEU_USUARIO_THM
@@ -174,8 +172,6 @@
 -->
 
 </div>
-
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
 
 <!-- ============================================================ -->
 <!-- ALÉM DO CÓDIGO — edite livros, música e sonhos aqui -->
@@ -190,6 +186,19 @@
 - 🎻 **Músico**: violoncelo, violão e flauta
 - 🌲 **Sonho**: caminhar entre as sequoias da Califórnia
 - 🕊️ **Sonho**: pisar a Terra Santa
+
+<!-- GALERIA: fotos de Sequoia National Park (Unsplash) -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="./assets/gallery-road.jpg" width="100%" alt="estrada serpenteando entre sequoias"/></td>
+      <td width="25%"><img src="./assets/gallery-giants.jpg" width="100%" alt="sequoia gigante com pessoas na base mostrando a escala"/></td>
+      <td width="25%"><img src="./assets/gallery-lookup.jpg" width="100%" alt="sequoia vista de baixo contra o céu azul"/></td>
+      <td width="25%"><img src="./assets/gallery-meadow.jpg" width="100%" alt="clareira ensolarada entre sequoias"/></td>
+    </tr>
+  </table>
+  <em>Sequoia National Park, Califórnia — o lugar que me lembra por que vale a pena construir devagar.</em>
+</div>
 
 <img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
 
@@ -231,3 +240,8 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:0D1F12&height=100&section=footer&v=2" width="100%" alt="footer"/>
+
+<!--
+  Créditos das fotos (Unsplash): Sebastian Matamala, Ryan Arnst,
+  Launde Morel, Yuky Y., Ludwig Theodor von Rühm, Joey Graziano.
+-->

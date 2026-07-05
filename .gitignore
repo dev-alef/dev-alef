@@ -1,0 +1,3 @@
+# Fotos originais em alta resolução (pesadas demais para o repositório).
+# As versões otimizadas (strip-*.jpg e gallery-*.jpg) são as que vão para o git.
+assets/*-unsplash.jpg
