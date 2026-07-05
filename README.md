@@ -81,6 +81,9 @@
 
 </div>
 
+<!-- FAIXA DE FOTO: estrada entre as sequoias -->
+<img src="./assets/strip-road.jpg" width="100%" alt="estrada serpenteando entre sequoias"/>
+
 <!-- ============================================================ -->
 <!-- PROJETOS EM DESTAQUE — edite descrições e links aqui -->
 <!-- ============================================================ -->
@@ -123,6 +126,9 @@
     </td>
   </tr>
 </table>
+
+<!-- FAIXA DE FOTO: sequoia gigante com pessoas na base -->
+<img src="./assets/strip-giants.jpg" width="100%" alt="sequoia gigante com pessoas na base mostrando a escala"/>
 
 <!-- ============================================================ -->
 <!-- ESTATÍSTICAS — troque "dev-alef" pelo seu usuário se mudar -->
@@ -173,6 +179,9 @@
 
 </div>
 
+<!-- FAIXA DE FOTO: tronco de sequoia contra o céu azul -->
+<img src="./assets/strip-lookup.jpg" width="100%" alt="sequoia vista de baixo contra o céu azul"/>
+
 <!-- ============================================================ -->
 <!-- ALÉM DO CÓDIGO — edite livros, música e sonhos aqui -->
 <!-- ============================================================ -->
@@ -187,20 +196,8 @@
 - 🌲 **Sonho**: caminhar entre as sequoias da Califórnia
 - 🕊️ **Sonho**: pisar a Terra Santa
 
-<!-- GALERIA: fotos de Sequoia National Park (Unsplash) -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%"><img src="./assets/gallery-road.jpg" width="100%" alt="estrada serpenteando entre sequoias"/></td>
-      <td width="25%"><img src="./assets/gallery-giants.jpg" width="100%" alt="sequoia gigante com pessoas na base mostrando a escala"/></td>
-      <td width="25%"><img src="./assets/gallery-lookup.jpg" width="100%" alt="sequoia vista de baixo contra o céu azul"/></td>
-      <td width="25%"><img src="./assets/gallery-meadow.jpg" width="100%" alt="clareira ensolarada entre sequoias"/></td>
-    </tr>
-  </table>
-  <em>Sequoia National Park, Califórnia — o lugar que me lembra por que vale a pena construir devagar.</em>
-</div>
-
-<img src="./assets/forest-divider.svg" width="100%" alt="forest divider"/>
+<!-- FAIXA DE FOTO: luz do sol atravessando a floresta (antes do versículo) -->
+<img src="./assets/strip-sunrays.jpg" width="100%" alt="luz do sol atravessando a floresta de sequoias"/>
 
 <!-- ============================================================ -->
 <!-- VERSÍCULO — fechamento espiritual -->
@@ -211,6 +208,9 @@
 > — **Provérbios 9:10**
 
 </div>
+
+<!-- FAIXA DE FOTO: copas verdes das sequoias -->
+<img src="./assets/strip-green.jpg" width="100%" alt="copas verdes de sequoias"/>
 
 <!-- ============================================================ -->
 <!-- CONTATO — substitua os placeholders pelos seus links -->
@@ -224,6 +224,9 @@
 [![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([SEU_LINK_PORTFOLIO])
 
 </div>
+
+<!-- FAIXA DE FOTO: clareira entre as sequoias -->
+<img src="./assets/strip-meadow.jpg" width="100%" alt="clareira ensolarada entre sequoias"/>
 
 <!-- ============================================================ -->
 <!-- SNAKE ANIMATION — gerado por .github/workflows/snake.yml -->
@@ -243,5 +246,6 @@
 
 <!--
   Créditos das fotos (Unsplash): Sebastian Matamala, Ryan Arnst,
-  Launde Morel, Yuky Y., Ludwig Theodor von Rühm, Joey Graziano.
+  Launde Morel, Yuky Y., Ludwig Theodor von Rühm, Joey Graziano,
+  Aiden, Alan Labisch.
 -->
