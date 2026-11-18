@@ -186,7 +186,7 @@
 
 </div>
 
-- ✍️ **Autor publicado** <a href=https://www.amazon.com.br/dp/B0H371T72W/>No amor não há ego — *"Uma voz que clama por verdade"*
+- ✍️ **Autor publicado** <a href=https://www.amazon.com.br/dp/B0H371T72W/>No amor não há ego</a> — *"Uma voz que clama por verdade"*
 - 🎻 **Músico**: Eterno aprendiz
 - 🕊️ **Meta**: pisar a Terra Santa
 - 🌲 **Meta**: caminhar entre as sequoias da Califórnia
