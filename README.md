@@ -43,7 +43,7 @@
 </div>
 
 - 🌱 Formação: Fullstack (Node.js · React · TypeScript · PostgreSQL · Docker)
-- 🛡️ Trilha paralela: Cibersegurança e Ethical Hacking, autodidata
+- 🛡️ Trilha paralela: Cibersegurança e IA
 - 📍 Volta Redonda, RJ, Brasil
 - 🚀 Aberto a estágios, freelas e colaborações
 
