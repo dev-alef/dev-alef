@@ -91,7 +91,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 FinTrack</h3>
+      <h3>💰 Provisão</h3>
       <p>
         App fullstack de finanças pessoais com <strong>insights via IA (Gemini)</strong>,
         autenticação <strong>JWT</strong>, cache com <strong>Redis</strong> e pipeline de
@@ -186,10 +186,11 @@
 
 </div>
 
-- ✍️ **Autor publicado** de livros sobre amor, ego e fé — *"Uma voz que clama por verdade"*
-- 🎻 **Músico**: Eterno aprendiz de violoncelo, violão e flauta
-- 🌲 **Meta**: caminhar entre as sequoias da Califórnia
+- ✍️ **Autor publicado** No amor não há ego<a href=https://www.amazon.com.br/dp/B0H371T72W/> — *"Uma voz que clama por verdade"*
+- 🎻 **Músico**: Eterno aprendiz
 - 🕊️ **Meta**: pisar a Terra Santa
+- 🌲 **Meta**: caminhar entre as sequoias da Califórnia
+
 
 <!-- FAIXA DE FOTO: luz do sol atravessando a floresta (antes do versículo) -->
 <img src="./assets/strip-sunrays.jpg" width="100%" alt="luz do sol atravessando a floresta de sequoias"/>
@@ -216,7 +217,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1F12?style=for-the-badge&logo=linkedin&logoColor=4ADE80)](https://www.linkedin.com/in/alerson-ferreira/)
 [![Email](https://img.shields.io/badge/Email-0D1F12?style=for-the-badge&logo=gmail&logoColor=4ADE80)](mailto:[ola.alef1@gmail.com])
-[![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([https://portfolio-9igs.vercel.app/])
+[![Genesis Code](https://img.shields.io/badge/Genesis%20Code-0D1F12?style=for-the-badge&logo=googlechrome&logoColor=4ADE80)]([https://somosgenesiscode.com.br/])
 
 </div>
 
