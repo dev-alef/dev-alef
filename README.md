@@ -160,7 +160,8 @@
 
 ### 🛡️ Jornada Ethical Hacking
 
-**OverTheWire** → **TryHackMe** → **PortSwigger Academy** → **Hack The Box** → **Bug Bounty**
+🛡️ **Cibersegurança Defensiva (Blue Team)** → Redes e Linux → Análise de Vulnerabilidades → Monitoramento e Resposta a Incidentes → Fundamentos de Segurança Ofensiva - **OverTheWire** → **TryHackMe** 
+
 
 *A sequoia atravessa o incêndio por causa da espessura da casca.<br/>Segurança é isso: construir sistemas de casca grossa — e cada camada começa com disciplina diária.*
 
